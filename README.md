@@ -79,7 +79,7 @@ Mirror Self RPG is a DoctorWest's PnP RPG system framework to aim to play all ty
 
 “勇気ある美”佐々木勇美("Courageous gainly" Isami SASAKI)
 --
-「シンキングリード－昏き鏡面（プロテウス）」(TR-DM[PR])
+「シンキングリード－昏き鏡面」(TR-DM)
 過去：あなたは鏡をくぐり抜けるという不可思議な体験をした。鏡の向こうの世界でミラーセルフとしての自己を見出した
 現在：あなたは強いもの相手に己の力を振るいたい。善悪を超越した存在として己自身を感じ続けたい
 未来：行き着く先が歪界であろうと物質界であろうと自らの存在意義を感じ続けられればあなたは本望である
@@ -92,7 +92,7 @@ Mirror Self RPG is a DoctorWest's PnP RPG system framework to aim to play all ty
 
 “宇部の祭司”伊福部信世("Priest of UBE" Nobuyo IFUKUBE)
 --
-「イド－守護者」(ID-GD)
+「イド－守護者（プロテウス）」(ID-GD[PR])
 過去：あなたは高名な創作物に登場する存在への想いが積もって生まれた。しかし歪界の影響でミラーセルフとして独立した自我を得た
 現在：妄執によってあなたは存在し続けている。あなたは己の存在を誇示するために手段を問わずに活動する
 未来：二つに分かれている不自然な状態の歪界と物質界を統合し、三界にまたがる存在となることがあなたの望みである
